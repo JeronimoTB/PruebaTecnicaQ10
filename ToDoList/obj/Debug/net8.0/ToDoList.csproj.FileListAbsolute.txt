@@ -1,0 +1,14 @@
+C:\Users\jerot\OneDrive\Escritorio\ToDoList\ToDoList\obj\Debug\net8.0\ToDoList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jerot\OneDrive\Escritorio\ToDoList\ToDoList\obj\Debug\net8.0\ToDoList.AssemblyInfoInputs.cache
+C:\Users\jerot\OneDrive\Escritorio\ToDoList\ToDoList\obj\Debug\net8.0\ToDoList.AssemblyInfo.cs
+C:\Users\jerot\OneDrive\Escritorio\ToDoList\ToDoList\obj\Debug\net8.0\ToDoList.csproj.CoreCompileInputs.cache
+C:\Users\jerot\OneDrive\Escritorio\ToDoList\ToDoList\bin\Debug\net8.0\ToDoList.exe
+C:\Users\jerot\OneDrive\Escritorio\ToDoList\ToDoList\bin\Debug\net8.0\ToDoList.deps.json
+C:\Users\jerot\OneDrive\Escritorio\ToDoList\ToDoList\bin\Debug\net8.0\ToDoList.runtimeconfig.json
+C:\Users\jerot\OneDrive\Escritorio\ToDoList\ToDoList\bin\Debug\net8.0\ToDoList.dll
+C:\Users\jerot\OneDrive\Escritorio\ToDoList\ToDoList\bin\Debug\net8.0\ToDoList.pdb
+C:\Users\jerot\OneDrive\Escritorio\ToDoList\ToDoList\obj\Debug\net8.0\ToDoList.dll
+C:\Users\jerot\OneDrive\Escritorio\ToDoList\ToDoList\obj\Debug\net8.0\refint\ToDoList.dll
+C:\Users\jerot\OneDrive\Escritorio\ToDoList\ToDoList\obj\Debug\net8.0\ToDoList.pdb
+C:\Users\jerot\OneDrive\Escritorio\ToDoList\ToDoList\obj\Debug\net8.0\ToDoList.genruntimeconfig.cache
+C:\Users\jerot\OneDrive\Escritorio\ToDoList\ToDoList\obj\Debug\net8.0\ref\ToDoList.dll
