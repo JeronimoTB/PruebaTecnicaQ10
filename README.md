@@ -1,1 +1,0 @@
-# PruebaTecnicaQ10
